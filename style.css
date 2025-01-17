@@ -1,0 +1,30 @@
+#banner .carousel-item{
+    height: 90vh;;
+
+}
+
+#banner .carousel-item img{
+    height: 100%;
+}
+
+#banner .carousel{
+    position: relative;
+
+}
+
+#banner #element{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    font-style:italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+/* login page */
+ #logincontainer{
+width: 30vw;
+height: 70vh;
+box-shadow: 0 0 10px;
+margin: 80px auto;
+
+}
